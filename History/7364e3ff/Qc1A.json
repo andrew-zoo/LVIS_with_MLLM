@@ -1,0 +1,8 @@
+{
+    "remote.SSH.remotePlatform": {
+        "gate1": "linux",
+        "172.16.162.74": "linux"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.openRepositoryInParentFolders": "never"
+}
